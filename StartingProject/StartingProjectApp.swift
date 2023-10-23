@@ -7,5 +7,6 @@ struct StartingProjectApp: App {
             MainView()
             //
         }
+        
     }
 }
