@@ -1,4 +1,4 @@
-name: swiftLint
+name: swiftlint
 
 on:
   pull_request:
