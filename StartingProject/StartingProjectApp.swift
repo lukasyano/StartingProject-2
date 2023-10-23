@@ -5,6 +5,7 @@ struct StartingProjectApp: App {
     var body: some Scene {
         WindowGroup {
             MainView()
+            //
         }
     }
 }
